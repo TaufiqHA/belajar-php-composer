@@ -4,7 +4,7 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Taufiq\\BelajarPhpComposer\\": "src/"
+            "taufiq\\": "src/"
         }
     },
     "authors": [
